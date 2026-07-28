@@ -18,7 +18,9 @@
 
 <div id="social>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jitendra_sr1)
+<a href="https://www.instagram.com/jitendra_sr1?hl=en" > 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
 <a href="https://www.imdb.com/user/p.vtfhvezxxjxtfjdwokxj3uw3ba" > 
     <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" alt="IMDb" height="28"/>
 </a>
