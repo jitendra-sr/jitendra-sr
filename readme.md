@@ -16,7 +16,7 @@
 
 ## 🌏 **SOCIAL**
 
-<div id="social>
+<div id="social">
 
 <a href="https://www.instagram.com/jitendra_sr1" > 
     <img src="https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp" alt="Instagram" height="28"/>
