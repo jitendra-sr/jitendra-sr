@@ -3,31 +3,10 @@
 <h2 align="center">Leetcode Info<h2>
 
 <div align="center">
-  <a href="https://leetcode.com/u/jitendra-sr/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500.gif" alt="500-Days" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/jitendra-sr/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="Annual-2024" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/jitendra-sr/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Into-to-Pandas" height="200" width="200" /></a>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jitendra-sr?theme=transparent,unicorn&border=0&animation=true&ext=heatmap)](https://leetcode.com/jitendra-sr)
+
 </div>
-
-<div align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jitendra-sr?theme=light&ext=heatmap&width=490&font=noto_sans_display" />  
-</div>
-
-<!-- Connect With Me -->
-
-## 🌏 **CONNECT WITH ME**
-
-<a href="singh.jitendra.up85@gmail.com.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-<a  href="https://www.linkedin.com/in/jitendra-singh-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
-</a>
-<a href="https://x.com/jitendra_sr1"> 
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" title="X"  alt="X"/>
-</a>
-<a href="https://www.instagram.com/jitendra_sr1"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
 
 <!-- Tech Arsenal -->
 
