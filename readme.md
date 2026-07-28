@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jitendra-sr?theme=transparent,unicorn&border=0&animation=true&ext=heatmap)](https://leetcode.com/jitendra-sr)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jitendra-sr?theme=transparent,unicorn&border=0&animation=true&ext=heatmap)](https://leetcode.com/u/jitendra-sr)
 
 </div>
 
