@@ -17,7 +17,7 @@
 <div id="social>
 
 <a href="https://www.instagram.com/jitendra_sr1" > 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.imdb.com/user/p.vtfhvezxxjxtfjdwokxj3uw3ba" > 
     <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" alt="IMDb" height="28"/>
@@ -104,7 +104,7 @@
 <a href="https://chatgpt.com/" > 
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </a>
-<a href="hhttps://claude.ai/" > 
+<a href="https://claude.ai/" > 
     <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
 </a>
 
