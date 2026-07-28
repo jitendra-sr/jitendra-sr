@@ -18,11 +18,11 @@
 
 <div id="social>
 
-<a href="https://www.instagram.com/jitendra_sr1" > 
-    <img src="https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp" alt="Instagram" height="28"/>
-</a>
 <a href="https://www.imdb.com/user/p.vtfhvezxxjxtfjdwokxj3uw3ba" > 
     <img src="https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png" alt="IMDb" height="28"/>
+</a>
+<a href="https://www.instagram.com/jitendra_sr1" > 
+    <img src="https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp" alt="Instagram" height="28"/>
 </a>
 <a href="https://open.spotify.com/user/31iqeb2wtypraer5pvs5lcqj557y" > 
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
