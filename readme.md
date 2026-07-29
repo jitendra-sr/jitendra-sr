@@ -3,13 +3,16 @@
 <!-- <a href="https://example.com" target="_blank" rel="noopener noreferrer"> Example </a>
 This protects against reverse tabnabbing and prevents the destination page from learning which page the user came from through window.opener and HTTP Referer header. -->
 
+<!-- GitHub uses an HTML sanitizer on all user-generated Markdown (including profile READMEs, repository READMEs, issues, PRs, etc.) to prevent user from attacks like reverse tabnabbing.
+Github removes unsupported attributes includding target and rel. It only allows a safe subset of HTML attributes. -->
+
 ## 😁 **DSA**
 
 <div id="dsa" align="center">
 
-<a href="https://github.com/jitendra-sr/DSA_CPP" target="_blank" rel="noopener noreferrer"><img align="center" src="https://leetcard.jacoblin.cool/jitendra-sr?theme=transparent,unicorn&border=0&animation=true&ext=heatmap" alt="LeetCode" style="border: none; border-radius: 8px;"/></a><br/>
+<a href="https://github.com/jitendra-sr/DSA_CPP" ><img align="center" src="https://leetcard.jacoblin.cool/jitendra-sr?theme=transparent,unicorn&border=0&animation=true&ext=heatmap" alt="LeetCode" style="border: none; border-radius: 8px;"/></a><br/>
 
-<a href="https://www.leetcode.com/u/jitendra-sr" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jitendra-sr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/jitendra-sr" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jitendra-sr" height="30" width="40" /></a>
 <a href="https://takeuforward.org/profile/jitendra_sr1" ><img align="center" src="https://takeuforward.org/takeUforward.svg" alt="jitendra_sr1" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/profile/jitendra85" ><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="jitendra85" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jitendra-sr" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jitendra-sr" height="30" width="40" /></a>
